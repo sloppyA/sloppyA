@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sloppyA
 - 👀 I’m interested in Web 3.0, cryptocurrency.
 - 🌱 I’m currently learning cryptocurrency.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some crypto projects (testing them).
 - 📫 How to reach me ...
 
 <!---
